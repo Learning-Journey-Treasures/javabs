@@ -7,6 +7,7 @@ https://hlmall.cyrobot.top/api/get_scheme_url/2
 # 3.项目列表，持续更新
 ## 所有项目均经过本人亲测，完整包运行，部署问题免费咨询
 ## 99%带论文示例参考
+- 基于SpringBoot+Vue的智慧物业原生小程序
 - 基于SpringBoot+Vue+uniapp的美食推荐（点餐）系统
 - 基于SpringBoot+Vue的医院挂号管理系统
 - 基于SpringBoot+Vue的家政服务管理平台
