@@ -7,6 +7,10 @@ https://hlmall.cyrobot.top/api/get_scheme_url/2
 # 3.项目列表，持续更新
 ## 所有项目均经过本人亲测，完整包运行，部署问题免费咨询
 ## 99%带论文示例参考
+- 基于SpringBoot+Vue的大学生就业服务平台+论文示例参考
+- 基于SpringBoot+Vue的社区物业管理平台+论文示例参考
+- 基于SpringBoot+Vue的校园跑腿原生小程序
+- 基于SSM+Vue的汽车维修保养预约系统+论文示例
 - 基于SSM+Vue+uniapp的大学新生自助报到小程序+论文示例
 - 基于SSM+Vue+uniapp的驾校预约管理小程序+论文示例
 - 基于SpringBoot+Vue的智慧物业原生小程序
