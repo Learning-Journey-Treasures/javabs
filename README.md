@@ -7,6 +7,11 @@ https://hlmall.cyrobot.top/api/get_scheme_url/2
 # 3.项目列表，持续更新
 ## 所有项目均经过本人亲测，完整包运行，部署问题免费咨询
 ## 99%带论文示例参考
+- 基于SpringBoot+Vue的毕业论文管理系统+论文示例参考
+- 基于SpringBoot+Vue的电影推荐系统+论文示例参考
+- 基于SSM+Vue+uniapp的科创微应用（可改为研学）小程序+论文
+- 基于SpringBoot的公司财务管理系统+论文示例参考
+- 基于SpringBoot+Vue的高校社团管理系统+论文示例参考
 - 基于SpringBoot+Vue的高校社团管理系统+论文示例参考
 - 基于SpringBoot的公司财务管理系统+论文示例
 - 基于SpringBoot+Vue的大学生就业服务平台+论文示例参考
