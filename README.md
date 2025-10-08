@@ -8,10 +8,25 @@ https://hlmall.cyrobot.top/api/get_scheme_url/2
 ## 所有项目均经过本人亲测，完整包运行，部署问题免费咨询
 ## 99%带论文示例参考
 - 基于SpringBoot+Vue的毕业论文管理系统+论文示例参考
+- 基于SpringBoot的社区爱心养老服务管理系统+论文示例+开题报告+PPT
+- 基于SpringBoot的少儿编程系统-论文示例-开题报告-答辩PPT
+- 基于SpringBoot的付费自习室+论文+开题报告+PPT
+- 基于SpringBoot的足球论坛系统+论文示例参考
 - 基于SpringBoot+Vue的电影推荐系统+论文示例参考
 - 基于SSM+Vue+uniapp的科创微应用（可改为研学）小程序+论文
 - 基于SpringBoot的公司财务管理系统+论文示例参考
-- 基于SpringBoot+Vue的高校社团管理系统+论文示例参考
+- 基于SpringBoot+Vue的在教务管理（课程管理）系统+论文示例
+- 基于SpringBoot+Vue的在线拍卖管理系统+论文示例参考
+- 基于SpringBoot+Vue的高校招生宣传管理系统+论文示例参考
+- 基于协同过滤推荐算法+SpringBoot+Vue的图书商城系统+论文示例参考
+- 基于SpringBoot+Vue的幼儿园管理系统+论文示例参考
+- 基于Spring Boot的家政服务管理系统+论文示例参考
+- 基于SpringBoot+Vue的毕业论文管理系统+论文示例参考
+- 基于SSM+Vue+uniapp的科创微应用（可改为研学）小程序+论文示例
+- 基于SpringBoot+Vue的电影推荐系统+论文示例参考
+- 基于SpringBoot+Vue的大学校园志愿者管理系统+论文示例参考
+- 基于SpringBoot+Vue的驾校预约系统+论文示例参考
+- 基于SpringBoot+Vue的在线考试系统+论文示例
 - 基于SpringBoot+Vue的高校社团管理系统+论文示例参考
 - 基于SpringBoot的公司财务管理系统+论文示例
 - 基于SpringBoot+Vue的大学生就业服务平台+论文示例参考
